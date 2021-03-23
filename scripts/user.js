@@ -1,7 +1,4 @@
-function myFunction() {
-    console.log(u[username]);
-}
-function User() {
-    var x = document.getUserId("U").enctype;
-    console.log(x)
+function teste() {
+    var name = window.prompt("Enter your name: "); window="contato"; 
+    document.querySelector("[name='teste1']").value = informacao;
 }
